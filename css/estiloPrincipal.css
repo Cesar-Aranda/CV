@@ -1,0 +1,36 @@
+/* fuentes a usar*/
+/* titulos: Roboto condensed */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@450&display=swap');
+
+body {
+    background-color:  #D4D4D7;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+ }
+ 
+.header-left {
+    background-color: #151515; 
+    color: white; 
+    padding-top: 3%; 
+    padding-bottom: 8%;
+}
+.header-right {
+    background-image: url('../imagenes/header.jpg'); 
+    background-size: 100%;
+}
+.titulo-seccion-header, .titulo-seccion {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    background-color: black; 
+    color: white; 
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-size: 1.5em;
+}
+.titulo-seccion-header {
+    margin-top: 15%;
+}  
